@@ -1,0 +1,31 @@
+.ilk {
+  background-color: rgb(211, 226, 226);
+}
+.sol {
+  background-color: rgb(207, 213, 213);
+  width: 300px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+}
+.orta {
+  background-color: rgb(207, 213, 213);
+  width: 300px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+}
+.sağ {
+  background-color: rgb(207, 213, 213);
+  width: 300px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+}
+.nm {
+  margin-left: 210px;
+}
+footer {
+  margin-top: 200px;
+  margin-left: 600px;
+}
